@@ -4,9 +4,10 @@
 ![image](https://github.com/fxt-kby/PTWD-Net/blob/main/Figs/flowchart_1.png)
 
 
-
 ![image](https://github.com/fxt-kby/UPTD-Net/blob/main/Figs/result.png)
-This is a demo of underwater video data restored using our proposed method.
+
+There are demos of underwater video data restored using our proposed method.
+
 ![video1](https://github.com/fxt-kby/UPTD-Net/blob/main/Figs/video3_gif.gif)
 
 ![video1](https://github.com/fxt-kby/UPTD-Net/blob/main/Figs/video1_gif.gif)
