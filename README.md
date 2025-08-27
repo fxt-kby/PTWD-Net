@@ -5,9 +5,9 @@ This is the code of this paper: Addressing Coupled Degradation: Unsupervised Pol
 
 
 
-![image](https://github.com/fxt-kby/UPTD-Net/blob/main/Figs/result1.png)
+![image](https://github.com/fxt-kby/UPTD-Net/blob/main/Figs/result.png)
 This is a demo of underwater video data restored using our proposed method.
-![video1](https://github.com/fxt-kby/PTWD-Net/blob/main/Figs/video1.gif)
+![video1](https://github.com/fxt-kby/UPTD-Net/blob/main/Figs/video3_gif.gif)
 
-![video1](https://github.com/fxt-kby/UPTD-Net/blob/main/Figs/video1_big-ezgif.com-optimize.gif)
+![video1](https://github.com/fxt-kby/UPTD-Net/blob/main/Figs/video1_gif.gif)
 We will release the code once the paper is accepted.
